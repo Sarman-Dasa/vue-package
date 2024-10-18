@@ -11,7 +11,13 @@
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
-    "noEmit": true,
+    
+    /* Emit settings */
+    "declaration": true, // Enable declaration file generation
+    "declarationDir": "./dist", // Specify where to output declaration files
+    "emitDeclarationOnly": true, // Only emit declaration files
+
+    /* JSX settings */
     "jsx": "preserve",
 
     /* Linting */
