@@ -10,7 +10,7 @@
   }>();
   </script>
   
-  <style scoped>
+  <style>
   .personal-button {
     background-color: #5d5dec;
     color: #fff;
