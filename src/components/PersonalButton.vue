@@ -1,10 +1,13 @@
 <template>
     <button class="personal-button">
-      Hello
+      {{ props.text }}
     </button>
   </template>
   
   <script setup lang="ts">
+  const props = defineProps<{
+    text: string
+  }>();
   </script>
   
   <style scoped>

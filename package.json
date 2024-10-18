@@ -9,9 +9,9 @@
   "exports": {
     ".": {
       "import": "./dist/test-component.es.js",
-      "require": "./dist/test-component.umd.js",
-      "default": "./dist/style.css"
-    }
+      "require": "./dist/test-component.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
   },
   "files": [
     "dist"
