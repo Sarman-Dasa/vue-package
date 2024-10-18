@@ -1983,12 +1983,7 @@ const Br = { class: "personal-button" }, Jr = /* @__PURE__ */ cr({
     const t = e;
     return (n, s) => (Vr(), Cr("button", Br, St(t.text), 1));
   }
-}), Yr = (e, t) => {
-  const n = e.__vccOpts || e;
-  for (const [s, r] of t)
-    n[s] = r;
-  return n;
-}, qr = /* @__PURE__ */ Yr(Jr, [["__scopeId", "data-v-3a8fc161"]]);
+});
 export {
-  qr as PersonalButton
+  Jr as PersonalButton
 };
