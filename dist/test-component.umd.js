@@ -18,4 +18,4 @@ Component that was made reactive: `,e)),en(e,t,n,s,r,i,o,!0)}function Mr(e){retu
 * vue v3.5.12
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
-**/function Ur(){zr()}process.env.NODE_ENV!=="production"&&Ur();const Br={class:"personal-button"},Jr=((e,t)=>{const n=e.__vccOpts||e;for(const[s,r]of t)n[s]=r;return n})(cr({__name:"PersonalButton",props:{text:{}},setup(e){const t=e;return(n,s)=>(Vr(),Cr("button",Br,Et(t.text),1))}}),[["__scopeId","data-v-c304a871"]]);X.PersonalButton=Jr,Object.defineProperty(X,Symbol.toStringTag,{value:"Module"})});
+**/function Ur(){zr()}process.env.NODE_ENV!=="production"&&Ur();const Br={class:"personal-button"},Jr=((e,t)=>{const n=e.__vccOpts||e;for(const[s,r]of t)n[s]=r;return n})(cr({__name:"PersonalButton",props:{text:{}},setup(e){const t=e;return(n,s)=>(Vr(),Cr("button",Br,Et(t.text),1))}}),[["__scopeId","data-v-6820cbdd"]]);X.PersonalButton=Jr,Object.defineProperty(X,Symbol.toStringTag,{value:"Module"})});

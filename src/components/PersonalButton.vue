@@ -12,10 +12,10 @@
   
   <style scoped>
   .personal-button {
-    background-color: #000;
+    background-color: #5d5dec;
     color: #fff;
     padding: 10px 20px;
-    border: none;
+    border: 2px solid #5d5dec;
     border-radius: 5px;
   }
   </style>

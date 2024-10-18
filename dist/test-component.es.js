@@ -1988,7 +1988,7 @@ const Br = { class: "personal-button" }, Jr = /* @__PURE__ */ cr({
   for (const [s, r] of t)
     n[s] = r;
   return n;
-}, qr = /* @__PURE__ */ Yr(Jr, [["__scopeId", "data-v-c304a871"]]);
+}, qr = /* @__PURE__ */ Yr(Jr, [["__scopeId", "data-v-6820cbdd"]]);
 export {
   qr as PersonalButton
 };
