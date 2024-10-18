@@ -9,7 +9,8 @@
   "exports": {
     ".": {
       "import": "./dist/test-component.es.js",
-      "require": "./dist/test-component.umd.js"
+      "require": "./dist/test-component.umd.js",
+      "default": "./dist/style.css"
     }
   },
   "files": [

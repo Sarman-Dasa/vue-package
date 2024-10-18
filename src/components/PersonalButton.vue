@@ -15,7 +15,7 @@
     background-color: #5d5dec;
     color: #fff;
     padding: 10px 20px;
-    border: 2px solid #5d5dec;
+    border: 3px solid #18181b;
     border-radius: 5px;
   }
   </style>
